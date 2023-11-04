@@ -8,5 +8,6 @@
 
 int main() {
 	printf("hell world");
+	printf("hello");
 	return 0;
 }
