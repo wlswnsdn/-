@@ -7,6 +7,6 @@ int main() {
 	printf("test1, hello");
 	printf("test1, goodbye");
 	printf("test2, hi!!")
-
+	printf("task8");
 	return 0;
 }
