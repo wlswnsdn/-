@@ -9,6 +9,7 @@ int main() {
 	printf("test2, hi!!")
 
 		printf("hello,jun");
+	printf("task2");
 
 	return 0;
 }
