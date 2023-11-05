@@ -8,5 +8,7 @@ int main() {
 	printf("test1, goodbye");
 	printf("test2, hi!!")
 
+		printf("hello,jun");
+
 	return 0;
 }
