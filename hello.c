@@ -8,5 +8,6 @@ int main() {
 	printf("test1, goodbye");
 	printf("test2, hi!!")
 	printf("task8");
+	printf("task9");
 	return 0;
 }
